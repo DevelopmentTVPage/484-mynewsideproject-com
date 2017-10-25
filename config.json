@@ -5,7 +5,7 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "123179143",
+    "galleryChannelIds": "123179143,123179145",
     "params": {
         "loginId": "1758991",
         "subfolder": "\/sideproject",
